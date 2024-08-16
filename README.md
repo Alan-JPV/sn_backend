@@ -1,1 +1,2 @@
-# sn_backend
+# sn_backend\
+this repository is for bakend of project sneakerhead
